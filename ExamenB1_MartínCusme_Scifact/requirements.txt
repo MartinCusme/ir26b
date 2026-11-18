@@ -1,0 +1,10 @@
+fastapi==0.163.2
+uvicorn==0.54.0
+snowballstemmer==3.1.1
+datasets==5.2.0
+httpx==0.28.1
+ir-measures==0.4.3
+scikit-learn==1.9.1
+nbformat
+nbclient
+ipykernel
